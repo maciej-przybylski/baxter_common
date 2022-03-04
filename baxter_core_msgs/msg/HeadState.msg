@@ -1,4 +1,5 @@
 float32 pan
-bool isTurning
+# bool isTurning
+bool isPanning
 bool isNodding
-bool isPanEnabled
+# bool isPanEnabled
